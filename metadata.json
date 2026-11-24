@@ -1,0 +1,6 @@
+{
+  "name": "НАВЬ: ТЕМНОЛЕСЬЕ — Dark Slavic 3D RTS",
+  "description": "Cinematic full-3D Dark Slavic real-time strategy game inspired by Warcraft III: command a Voivode hero, build a timber stronghold, harvest ore and pine, and hold back the cursed Nav hordes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
